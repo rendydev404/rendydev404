@@ -9,6 +9,16 @@
 
 ---
 
+> [!TIP]
+> <h3 align="center">🐍 GitHub Contributions Snake</h3>
+> <p align="center">
+>   <picture>
+>     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rendydev404/rendydev404/output/github-snake-dark.svg">
+>     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rendydev404/rendydev404/output/github-snake.svg">
+>     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rendydev404/rendydev404/output/github-snake.svg">
+>   </picture>
+> </p>
+
 ### 🔍 About Me
 - 🚀 I’m currently learning: **JavaScript**, **Python**, **Machine Learning**
 - 💡 I’m interested in: **Web Development**, **AI**, and **Open Source**
